@@ -3,3 +3,5 @@ save_model/* filter=lfs diff=lfs merge=lfs -text
 checkpoint/* filter=lfs diff=lfs merge=lfs -text
 checkpoint/ filter=lfs diff=lfs merge=lfs -text
 save_model/ filter=lfs diff=lfs merge=lfs -text
+save_model/** filter=lfs diff=lfs merge=lfs -text
+checkpoint/** filter=lfs diff=lfs merge=lfs -text
