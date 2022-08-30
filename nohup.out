@@ -1,0 +1,12 @@
+[2022-04-28T11:02:35.477Z] info  Wrote default config file to ~/.config/code-server/config.yaml
+[2022-04-28T11:02:35.949Z] info  code-server 4.3.0 09bc30027a7fbba170f907a527eaa9f7219fe739
+[2022-04-28T11:02:35.950Z] info  Using user-data-dir ~/.local/share/code-server
+[2022-04-28T11:02:35.972Z] info  Using config file ~/.config/code-server/config.yaml
+[2022-04-28T11:02:35.972Z] info  HTTP server listening on http://127.0.0.1:9000/ 
+[2022-04-28T11:02:35.972Z] info    - Authentication is disabled 
+[2022-04-28T11:02:35.972Z] info    - Not serving HTTPS 
+[2022-04-28T11:02:49.949Z] info  code-server 4.3.0 09bc30027a7fbba170f907a527eaa9f7219fe739
+[2022-04-28T11:02:49.953Z] info  Using user-data-dir ~/.local/share/code-server
+[2022-04-28T11:02:49.962Z] error listen EADDRINUSE: address already in use 127.0.0.1:9000
+bash: %run: No such file or directory
+bash: %run: No such file or directory
